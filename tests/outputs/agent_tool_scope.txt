@@ -1,0 +1,3 @@
+at-risk-briefing | tools: [Read, Grep, Glob]
+bug-report-checker | tools: [Read, Grep, Glob]
+(captured from the Claude Code session init event with: claude -p --agent <name> --output-format stream-json --verbose)

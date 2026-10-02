@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read", "Glob", "Grep",
+      "Edit(./scratch/**)",
+      "Bash(python3 .claude/skills/ticket-triage/scripts/escalation_check.py:*)",
+      "Bash(python3 .claude/skills/support-reply/scripts/check_reply.py:*)"
+    ]
+  }
+}

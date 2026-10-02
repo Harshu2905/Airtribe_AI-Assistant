@@ -1,0 +1,9 @@
+account_id,account_name,plan,seats,billing_cycle,mrr_usd,renewal_date,event_date,event,amount_usd,notes
+ACC-1042,Northwind Logistics,Business,60,annual,2700,2026-11-30,2025-11-30,invoice_paid,32400,Annual renewal 60 seats
+ACC-1042,Northwind Logistics,Business,48,annual,2160,2026-11-30,2026-06-02,seat_reduction,-5400,"60 -> 48 seats, credited to next invoice"
+ACC-1042,Northwind Logistics,Business,38,annual,1710,2026-11-30,2026-08-19,seat_reduction,-4500,"48 -> 38 seats, credited to next invoice"
+ACC-1042,Northwind Logistics,Business,38,annual,1710,2026-11-30,2026-09-03,payment_failed,1710,Card declined on add-on invoice; retried OK 2026-09-06
+ACC-1042,Northwind Logistics,Business,38,annual,1710,2026-11-30,2026-09-22,outage_credit,-171,Credit for Aug uptime 99.1% (requested by customer)
+ACC-2210,Bluepeak Studio,Team,12,monthly,288,2026-10-14,2026-09-14,invoice_paid,288,
+ACC-2210,Bluepeak Studio,Team,12,monthly,288,2026-10-14,2026-08-14,invoice_paid,288,
+ACC-3307,Harbor Health Clinics,Enterprise,220,annual,9900,2027-03-01,2026-03-01,invoice_paid,118800,Custom contract

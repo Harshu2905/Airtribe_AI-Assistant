@@ -1,0 +1,6 @@
+Ticket ID: T-90240
+Plan: Business
+From: it-admin@harborhealth.org
+Subject: urgent - nothing loads
+
+None of our 200 staff can open a single board since about 9:10 this morning. Spinner forever, on Chrome and Edge, office and home networks. Our clinic schedules live in Fernlane. Please help ASAP.

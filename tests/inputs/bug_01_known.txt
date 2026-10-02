@@ -1,0 +1,4 @@
+From: Leo Martins (Business plan), Fernlane web app, version 4.21.0
+Subject: CSV export missing rows
+
+I exported our "All Support Requests" board to CSV for our quarterly audit. The board has about 14,200 cards but the CSV only has 10,000 rows. No error message. We need the full export by Friday.

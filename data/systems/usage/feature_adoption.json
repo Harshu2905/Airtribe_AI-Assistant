@@ -1,0 +1,23 @@
+{
+  "ACC-1042": {
+    "features_used_last_30d": [
+      "boards",
+      "tasks",
+      "comments"
+    ],
+    "features_dropped_vs_prior_90d": [
+      "jira_sync",
+      "timeline_view",
+      "automations"
+    ],
+    "integrations_connected": [
+      "slack"
+    ],
+    "integrations_disconnected": [
+      {
+        "name": "jira",
+        "date": "2026-08-21"
+      }
+    ]
+  }
+}

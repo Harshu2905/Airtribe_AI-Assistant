@@ -1,0 +1,8 @@
+Ticket ID: T-90231
+Plan: Team
+From: marco.ruiz@ledgerline.io
+Subject: Refund for extra seats + weird thing with share links
+
+Hi, we were charged for 15 seats but we only have 11 people. Can you sort out the difference?
+
+Also, separate thing: when I opened a public share link one of my colleagues sent, I could change the URL number at the end and see boards from what looks like another company's workspace. Feels like a security issue, so flagging it.

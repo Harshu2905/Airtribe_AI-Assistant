@@ -1,0 +1,5 @@
+From: Riya Sharma (Team plan), Fernlane web app, version 4.21.0, Chrome 129 on Windows 11
+Location: Pune, India (account time zone set to Asia/Kolkata)
+Subject: Timeline shows wrong due dates
+
+Since last week, every task on the Timeline view shows its due date one day earlier than the date in the task itself. E.g. task "Vendor contract" has due date 10 Oct in the task panel but the bar on the timeline ends on 9 Oct. The List view shows the correct date. My colleague in London sees the right dates on the same board. Happens on every board we've checked.

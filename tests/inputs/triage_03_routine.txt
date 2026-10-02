@@ -1,0 +1,6 @@
+Ticket ID: T-90255
+Plan: Business
+From: j.chen@quillandco.com
+Subject: Recurring tasks question
+
+Hi! Is there a way to make a task repeat every second Tuesday? I can only see weekly and monthly. Not urgent, just setting up our content calendar for next quarter.

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "T-88120",
+    "account_id": "ACC-1042",
+    "opened": "2026-07-24",
+    "closed": "2026-08-09",
+    "category": "integrations",
+    "subject": "Jira sync duplicating issues",
+    "status": "closed",
+    "csat": 2,
+    "summary": "Jira sync created duplicate Fernlane tasks after Jira field mapping change. Workaround given (re-map fields). Customer said workaround took their team a day."
+  },
+  {
+    "id": "T-88544",
+    "account_id": "ACC-1042",
+    "opened": "2026-08-12",
+    "closed": "2026-08-20",
+    "category": "integrations",
+    "subject": "Jira sync still broken, considering disconnecting",
+    "status": "closed",
+    "csat": 1,
+    "summary": "Duplicates recurred. Engineering bug ENG-4412 opened. Customer admin (Dana Okafor) disconnected Jira on 21 Aug."
+  },
+  {
+    "id": "T-89002",
+    "account_id": "ACC-1042",
+    "opened": "2026-08-28",
+    "closed": "2026-09-22",
+    "category": "billing",
+    "subject": "Outage credit for August",
+    "status": "closed",
+    "csat": 3,
+    "summary": "Requested outage credit for Aug downtime (99.1%). Credit applied 22 Sep. Took 25 days, customer chased twice."
+  },
+  {
+    "id": "T-89410",
+    "account_id": "ACC-1042",
+    "opened": "2026-09-25",
+    "closed": null,
+    "category": "cancellation",
+    "subject": "Questions about contract end and data export",
+    "status": "open",
+    "csat": null,
+    "summary": "Dana Okafor asked what happens to data at renewal if they don't renew, and how to export all boards to CSV. Mentions evaluating 'other tools'."
+  },
+  {
+    "id": "T-87001",
+    "account_id": "ACC-2210",
+    "opened": "2026-07-02",
+    "closed": "2026-07-02",
+    "category": "how_to",
+    "subject": "How to add guests",
+    "status": "closed",
+    "csat": 5,
+    "summary": "Explained guest roles."
+  }
+]
